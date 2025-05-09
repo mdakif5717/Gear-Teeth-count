@@ -16,5 +16,3 @@ This MATLAB project detects and counts the number of gear teeth using a webcam f
 ## Usage
 Run the `3. GearTeethCounter.m` script in MATLAB. The camera will capture a gear image and automatically count the number of teeth.
 
-## Author
-Generated with help from ChatGPT.
